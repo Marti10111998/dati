@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Heatmap Example - Milan</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- MapLibre GL Styles -->
+  <link href="https://unpkg.com/maplibre-gl@3.6.0/dist/maplibre-gl.css" rel="stylesheet" />
+
+  <!-- Material-UI Styles (optional, but ensures proper slider rendering) -->
+  <style>
+    body {
+      margin: 0;
+      font-family: sans-serif;
+      width: 100vw;
+      height: 100vh;
+      overflow: hidden;
+    }
+    #app {
+      width: 100%;
+      height: 100%;
+    }
+  </style>
+</head>
+<body>
+  <!-- Application Mount Point -->
+  <div id="app"></div>
+
+  <!-- React Application Script -->
+  <script type="module">
+    import { renderToDOM } from './app.tsx';
+
+    // Render the application to the #app div
+    const appContainer = document.getElementById('app');
+    if (!appContainer) {
+      console.error('Failed to find #app container!');
+    } else {
+      renderToDOM(appContainer);
+    }
+  </script>
+</body>
+</html>
+
