@@ -1,0 +1,797 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            },
+            "properties": {
+                "immobile": "Alloggi e box di Edilizia Residenziale Pubblica",
+                "consistenza": null,
+                "indirizzo": "vari",
+                "conduttore": "Assegnatari",
+                "tipologia_concessione": "Locazione S.A.P.",
+                "durata": null,
+                "data_inizio": "01/01/1998",
+                "data_fine": "31/12/2028",
+                "importo": 97721.27,
+                "osservazioni": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            },
+            "properties": {
+                "immobile": "Area  Croce Rossa Italiana",
+                "consistenza": "3.601 mq",
+                "indirizzo": "via dei Mulini Mulazzana, 10",
+                "conduttore": "Croce Rossa Italiana",
+                "tipologia_concessione": "Diritto di superficie",
+                "durata": "99 anni",
+                "data_inizio": "12/02/2007",
+                "data_fine": "11/02/2106",
+                "importo": null,
+                "osservazioni": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            },
+            "properties": {
+                "immobile": "Area  Croce Rossa Italiana",
+                "consistenza": "1.396 mq",
+                "indirizzo": "via dei Mulini Mulazzana, 10",
+                "conduttore": "Croce Rossa Italiana",
+                "tipologia_concessione": "Diritto di superficie",
+                "durata": "99 anni",
+                "data_inizio": "12/02/2007",
+                "data_fine": "11/02/2106",
+                "importo": null,
+                "osservazioni": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            },
+            "properties": {
+                "immobile": "Alloggi, ristorante-bar, Palacampus, pertinenze",
+                "consistenza": "11.145 mq",
+                "indirizzo": "viale Papa Giovanni XXIII, 44 - 46 - 48",
+                "conduttore": "U.C.C. s.r.l. - societ\u00c3\u00a0 sportivo dilettantistica (Assigeco)",
+                "tipologia_concessione": "Locazione",
+                "durata": "18 anni",
+                "data_inizio": "30/01/2004",
+                "data_fine": "31/12/2024",
+                "importo": 29343.86,
+                "osservazioni": "Prorogato ex lege, rapporto in fase di regolarizzazione"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            },
+            "properties": {
+                "immobile": "Area Minimoto",
+                "consistenza": "34.300 mq",
+                "indirizzo": "via Croce Rossa",
+                "conduttore": "Associazione Moto Evoluzioni",
+                "tipologia_concessione": "Locazione con scomputo lavori da canone",
+                "durata": "19 anni e 6 mesi",
+                "data_inizio": "28/07/2006",
+                "data_fine": "27/01/2026",
+                "importo": 2195.2,
+                "osservazioni": "Dal 10/03/2003 al 28/07/2006 area concessa in diritto di superficie per costruzione impianto. Dal 28/07/ 2006 \u00e2\u0082\u00ac 1600 con  aggiornamento ISTAT al 100%. Prorogato al 27/01/2026 con atto G.C. 77 del 19/04/2021"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            },
+            "properties": {
+                "immobile": "Bocciodromo",
+                "consistenza": "760 mq",
+                "indirizzo": "Viale Resistenza 20",
+                "conduttore": "Bocciofila Codognese 68",
+                "tipologia_concessione": "Concessione amministrativa",
+                "durata": "2 anni",
+                "data_inizio": "20/05/2016",
+                "data_fine": "31/12/2024",
+                "importo": 1200.0,
+                "osservazioni": "Prorogato ex lege, rapporto in fase di regolarizzazione"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            },
+            "properties": {
+                "immobile": "Campo da Baseball e Softball",
+                "consistenza": "23.425 mq",
+                "indirizzo": "viale della Resistenza, 10",
+                "conduttore": "A.S.D. Codogno Baseball 67",
+                "tipologia_concessione": "Concessione amministrativa",
+                "durata": "10 anni e 10 mesi",
+                "data_inizio": "04/02/2015",
+                "data_fine": "31/12/2025",
+                "importo": 714.6,
+                "osservazioni": "Ultima proroga approvata con atto G.C. n.278 del 21/11/2022"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            },
+            "properties": {
+                "immobile": "Palazzina ex custode Viale Resistenza",
+                "consistenza": "150 mq",
+                "indirizzo": "viale della Resistenza, 10",
+                "conduttore": "A.S.D. Codogno Baseball 67",
+                "tipologia_concessione": "Concessione in uso",
+                "durata": "6 anni e 8 mesi",
+                "data_inizio": "26/04/2018",
+                "data_fine": "31/12/2025",
+                "importo": 4764.0,
+                "osservazioni": "Correlato al contratto di cui sopra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            },
+            "properties": {
+                "immobile": "Campo da calcio Acerbi",
+                "consistenza": "9.665 mq",
+                "indirizzo": "viale della Resistenza, 12",
+                "conduttore": "Polisportiva Oratoriana San Luigi gi\u00c3\u00a0  Fulgor 1909",
+                "tipologia_concessione": "Concessione amministrativa",
+                "durata": "11 anni e 2 mesi",
+                "data_inizio": "05/11/2014",
+                "data_fine": "30/06/2026",
+                "importo": 952.0,
+                "osservazioni": "Ultima proroga approvata con atto G.C. n.235 del 07/10/2024"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            },
+            "properties": {
+                "immobile": "Campo da calcio S. Biagio",
+                "consistenza": "11.425 mq",
+                "indirizzo": "viale Duca d'Aosta",
+                "conduttore": "A.S.D. Polisportiva S. Biagio",
+                "tipologia_concessione": "Concessione amministrativa",
+                "durata": "10 anni e 11 mesi",
+                "data_inizio": "30/01/2015",
+                "data_fine": "30/06/2026",
+                "importo": 595.5,
+                "osservazioni": "Ultima proroga approvata con atto G.C. n.235 del 07/10/2024"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            },
+            "properties": {
+                "immobile": "Campo da Rugby Walter Piccoli",
+                "consistenza": "12.270 mq",
+                "indirizzo": "viale Duca d'Aosta",
+                "conduttore": "A.S.D Rugby Club Codogno",
+                "tipologia_concessione": "Concessione amministrativa",
+                "durata": "11 anni e 2 mesi",
+                "data_inizio": "29/10/2014",
+                "data_fine": "30/06/2026",
+                "importo": 357.0,
+                "osservazioni": "Ultima proroga approvata con atto G.C. n.235 del 07/10/2024"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            },
+            "properties": {
+                "immobile": "Impianto sportivo Molinari",
+                "consistenza": "27.230 mq",
+                "indirizzo": "via Rosolino Ferrari",
+                "conduttore": "A.S.D. R.C. Codogno 1908",
+                "tipologia_concessione": "Concessione amministrativa",
+                "durata": "10 anni e 6 mesi",
+                "data_inizio": "01/12/2014",
+                "data_fine": "30/06/2026",
+                "importo": 1774.63,
+                "osservazioni": "Ultima proroga approvata con atto G.C. n.235 del 07/10/2024"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            },
+            "properties": {
+                "immobile": "Campi da Tennis",
+                "consistenza": "3.354 mq",
+                "indirizzo": "viale della Resistenza, 15 A",
+                "conduttore": "Match Point",
+                "tipologia_concessione": "Concessione amministrativa",
+                "durata": "25 anni",
+                "data_inizio": "22/12/2007",
+                "data_fine": "31/12/2032",
+                "importo": 6691.7,
+                "osservazioni": "Ultima proroga approvata con atto G.C. n. 40 del 12/02/2023 come modificato con atto 189/2023"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            },
+            "properties": {
+                "immobile": "Palestra e piscina",
+                "consistenza": "17.000 mq",
+                "indirizzo": "via Rosolino Ferrari",
+                "conduttore": "SKY LINE S.r.l.",
+                "tipologia_concessione": "Concessione amministrativa",
+                "durata": "23 anni e 10 mesi",
+                "data_inizio": "11/02/2005",
+                "data_fine": "31/12/2028",
+                "importo": 21914.24,
+                "osservazioni": "Ultima proroga approvata con atto G.C. n. 62 del 26/03/2021 e canone rivalutato dall' 01/01/2026"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            },
+            "properties": {
+                "immobile": "Campo Zinghetto",
+                "consistenza": "14.645 mq",
+                "indirizzo": "via Gatti, 33",
+                "conduttore": "Associazione Amici Campo Zinghetto -APS",
+                "tipologia_concessione": "Comodato",
+                "durata": "6 anni",
+                "data_inizio": "16/05/2023",
+                "data_fine": "15/05/2029",
+                "importo": null,
+                "osservazioni": "Impegno a svolgere servizi per Amministrazione"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            },
+            "properties": {
+                "immobile": "Ex alloggio custode presso Palazzetto dello Sport",
+                "consistenza": "73 mq",
+                "indirizzo": "viale Resistenza",
+                "conduttore": "Associazione Nazionale Carabinieri",
+                "tipologia_concessione": "Locazione",
+                "durata": "6+6 anni",
+                "data_inizio": "01/03/2021",
+                "data_fine": "28/02/2027",
+                "importo": 986.0,
+                "osservazioni": "Impegno a svolgere servizi per Amministrazione"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            },
+            "properties": {
+                "immobile": "Ex GIL",
+                "consistenza": "130 mq",
+                "indirizzo": "viale Resistenza 1 - angolo V.le Trieste",
+                "conduttore": "C.I.S.L.",
+                "tipologia_concessione": "Comodato - conto affitto",
+                "durata": "14 anni",
+                "data_inizio": "17/05/2010",
+                "data_fine": "16/05/2024",
+                "importo": null,
+                "osservazioni": "Rapporto in fase di regolarizzazione"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            },
+            "properties": {
+                "immobile": "Ex GIL",
+                "consistenza": "36 mq.",
+                "indirizzo": "viale Resistenza 1 - angolo V.le Trieste",
+                "conduttore": "Auser volontariato Codogno O.D.V.",
+                "tipologia_concessione": "Locazione",
+                "durata": "6+6 anni",
+                "data_inizio": "27/04/2015",
+                "data_fine": "26/04/2027",
+                "importo": 1252.1,
+                "osservazioni": "Con delibera G.C. 4 del 15/01/2024 approvato subentro Auser Codogno ad Auser Lodigiana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            },
+            "properties": {
+                "immobile": "Sede INPS - fabbricato uso uffici",
+                "consistenza": "653 mq",
+                "indirizzo": "viale Risorgimento, 17 - angolo via Cabrini",
+                "conduttore": "I.N.P.S.",
+                "tipologia_concessione": "Locazione",
+                "durata": "6+6 anni",
+                "data_inizio": "01/07/2020",
+                "data_fine": "30/06/2026",
+                "importo": 42245.0,
+                "osservazioni": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            },
+            "properties": {
+                "immobile": "Ex Filandone - Centro per l'impiego",
+                "consistenza": "220 mq",
+                "indirizzo": "via Pietrasanta, 3",
+                "conduttore": "Provincia di Lodi",
+                "tipologia_concessione": "Comodato",
+                "durata": "20 anni circa",
+                "data_inizio": "05/02/2021",
+                "data_fine": "31/12/2040",
+                "importo": null,
+                "osservazioni": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            },
+            "properties": {
+                "immobile": "Ex Filandone",
+                "consistenza": "20 mq",
+                "indirizzo": "via Pietrasanta, 3",
+                "conduttore": "Amici dell'Organo del Santuario della Madonna di Caravaggio",
+                "tipologia_concessione": "Comodato",
+                "durata": "3 anni",
+                "data_inizio": "01/10/2021",
+                "data_fine": "30/09/2024",
+                "importo": null,
+                "osservazioni": "Rapporto in fase di regolarizzazione"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            },
+            "properties": {
+                "immobile": "Ex Filandone",
+                "consistenza": "220  mq",
+                "indirizzo": "via Pietrasanta, 3",
+                "conduttore": "C.G.I.L.",
+                "tipologia_concessione": "Locazione",
+                "durata": "6+6 anni",
+                "data_inizio": "15/03/2021",
+                "data_fine": "14/03/2027",
+                "importo": 3000.0,
+                "osservazioni": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            },
+            "properties": {
+                "immobile": "Ex Filandone",
+                "consistenza": "35 mq",
+                "indirizzo": "via Pietrasanta, 3",
+                "conduttore": "A.N.M.I.L. Roma",
+                "tipologia_concessione": "Locazione",
+                "durata": "6+6 anni",
+                "data_inizio": "15/03/2021",
+                "data_fine": "14/03/2027",
+                "importo": 1000.0,
+                "osservazioni": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            },
+            "properties": {
+                "immobile": "Ex Filandone -locale adibito a magazzino",
+                "consistenza": "24 mq",
+                "indirizzo": "via Pietrasanta, 3",
+                "conduttore": "A.N.M.I.L. - Codogno",
+                "tipologia_concessione": "Comodato",
+                "durata": "6 anni",
+                "data_inizio": "15/07/2021",
+                "data_fine": "14/03/2027",
+                "importo": null,
+                "osservazioni": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            },
+            "properties": {
+                "immobile": "Ex Filandone -locale adibito ad archivio",
+                "consistenza": "150 mq",
+                "indirizzo": "via Pietrasanta, 4",
+                "conduttore": "Tribunale di Lodi",
+                "tipologia_concessione": "Comodato",
+                "durata": "5 anni",
+                "data_inizio": "09/10/2019",
+                "data_fine": "08/10/2024",
+                "importo": null,
+                "osservazioni": "Rapporto in fase di regolarizzazione"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            },
+            "properties": {
+                "immobile": "Ex Cantine Sociali - v.le Trivulzio",
+                "consistenza": "230 mq",
+                "indirizzo": "viale Trivulzio, 1",
+                "conduttore": "Calam - Centro di formazione professionale",
+                "tipologia_concessione": "Locazione",
+                "durata": "6+6 anni",
+                "data_inizio": "01/09/2023",
+                "data_fine": "31/08/2029",
+                "importo": 15000.0,
+                "osservazioni": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            },
+            "properties": {
+                "immobile": "Locali presso la biblioteca",
+                "consistenza": "50 mq",
+                "indirizzo": "Via Puccini 2",
+                "conduttore": "Fondazione Opere Pie Riunite di Codogno",
+                "tipologia_concessione": "Locazione",
+                "durata": "6 anni",
+                "data_inizio": "24/08/2018",
+                "data_fine": "23/08/2024",
+                "importo": 100.0,
+                "osservazioni": "Rapporto in fase di regolarizzazione"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            },
+            "properties": {
+                "immobile": "Locali sede Combattenti e Reduci",
+                "consistenza": "135 mq",
+                "indirizzo": "via Cavallotti, 4",
+                "conduttore": "Combattenti e Reduci",
+                "tipologia_concessione": "Comodato",
+                "durata": "12 anni",
+                "data_inizio": "19/08/2024",
+                "data_fine": "18/08/2036",
+                "importo": null,
+                "osservazioni": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            },
+            "properties": {
+                "immobile": "Locali in Via dei Canestrai (spogliatoi de Il Samaritano)",
+                "consistenza": "58 mq",
+                "indirizzo": "via dei Canestrai 1/b",
+                "conduttore": "Il Samaritano Onlus",
+                "tipologia_concessione": "Comodato",
+                "durata": "9 anni",
+                "data_inizio": "01/01/2018",
+                "data_fine": "31/12/2027",
+                "importo": null,
+                "osservazioni": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            },
+            "properties": {
+                "immobile": "Cassinazza - lotto 2",
+                "consistenza": "4.132 mq.",
+                "indirizzo": "via Pietro Nenni",
+                "conduttore": "Protezione Civile - Unit\u00c3\u00a0 Cinofila",
+                "tipologia_concessione": "Uso",
+                "durata": "indeterminata",
+                "data_inizio": "01/09/2017",
+                "data_fine": null,
+                "importo": null,
+                "osservazioni": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            },
+            "properties": {
+                "immobile": "Area presso Cimitero",
+                "consistenza": "50 mq.",
+                "indirizzo": "piazzale del Cimitero",
+                "conduttore": "Cellnex Italia s.p.a",
+                "tipologia_concessione": "Locazione",
+                "durata": "9 anni",
+                "data_inizio": "06/02/2021",
+                "data_fine": "05/02/2030",
+                "importo": 11500.0,
+                "osservazioni": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            },
+            "properties": {
+                "immobile": "Area presso Cimitero",
+                "consistenza": "91 mq",
+                "indirizzo": "via Mulino c/o Cimitero",
+                "conduttore": "Cellnex Italia s.p.a",
+                "tipologia_concessione": "Locazione",
+                "durata": "9 anni",
+                "data_inizio": "28/03/2021",
+                "data_fine": "27/03/2030",
+                "importo": 26500.0,
+                "osservazioni": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            },
+            "properties": {
+                "immobile": "Area verde a servizi",
+                "consistenza": "180 mq",
+                "indirizzo": "Via Polenghi/via Micheli",
+                "conduttore": "Maghi S.r.l.",
+                "tipologia_concessione": "Concessione amministrativa",
+                "durata": "5 anni",
+                "data_inizio": "06/06/2016",
+                "data_fine": "05/06/2021",
+                "importo": null,
+                "osservazioni": "il concessionario deve provvedere a proprio carico a servizi di pubblica utilit\u00c3\u00a0, rapporto in fase di regolarizzazione"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            },
+            "properties": {
+                "immobile": "Istituto Superiore \"CALAMANDREI \"",
+                "consistenza": "3935 mq",
+                "indirizzo": "Piazza della Repubblica",
+                "conduttore": "Provincia di Lodi",
+                "tipologia_concessione": "Concessione ai sensi L.23/1996",
+                "durata": "tempo indeterminato",
+                "data_inizio": "05/03/2001",
+                "data_fine": null,
+                "importo": null,
+                "osservazioni": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            },
+            "properties": {
+                "immobile": "Istituto Superiore \"LICEO NOVELLO\"",
+                "consistenza": "6150 mq",
+                "indirizzo": "Viale Papa Giovanni XXIII",
+                "conduttore": "Provincia di Lodi",
+                "tipologia_concessione": "Concessione ai sensi L.23/1996",
+                "durata": "tempo indeterminato",
+                "data_inizio": "05/03/2001",
+                "data_fine": null,
+                "importo": null,
+                "osservazioni": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            },
+            "properties": {
+                "immobile": "Istituto Superiore \"AMBROSOLI\"",
+                "consistenza": "1200 mq",
+                "indirizzo": "Viale della Resistenza 11",
+                "conduttore": "Provincia di Lodi",
+                "tipologia_concessione": "Concessione ai sensi L.23/1996",
+                "durata": "tempo indeterminato",
+                "data_inizio": "05/03/2001",
+                "data_fine": null,
+                "importo": null,
+                "osservazioni": null
+            }
+        }
+    ]
+}
