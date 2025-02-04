@@ -1,0 +1,515 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7033,
+                    45.1522
+                ]
+            },
+            "properties": {
+                "indirizzo": "VIALE ALBINO",
+                "tipologia": "Giardini di quartiere",
+                "superficie": "8579"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7033,
+                    45.1522
+                ]
+            },
+            "properties": {
+                "indirizzo": "VIALE ALBINO",
+                "tipologia": "Parco giochi",
+                "superficie": "8679"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7033,
+                    45.1522
+                ]
+            },
+            "properties": {
+                "indirizzo": "VIALE BUONARROTI",
+                "tipologia": "Area a verde",
+                "superficie": "9485"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7033,
+                    45.1522
+                ]
+            },
+            "properties": {
+                "indirizzo": "VIALE ARRIGO CAIRO",
+                "tipologia": "Giardini di isolato",
+                "superficie": "1408"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7033,
+                    45.1522
+                ]
+            },
+            "properties": {
+                "indirizzo": "PIAZZA CAIROLI",
+                "tipologia": "Area a verde",
+                "superficie": "6057"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7033,
+                    45.1522
+                ]
+            },
+            "properties": {
+                "indirizzo": "PIAZZA CAIROLI",
+                "tipologia": "Giardini di quartiere",
+                "superficie": "6055"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7033,
+                    45.1522
+                ]
+            },
+            "properties": {
+                "indirizzo": "PARCHEGGIO CIMITERO",
+                "tipologia": "Area a verde non fruibile",
+                "superficie": "3957"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7033,
+                    45.1522
+                ]
+            },
+            "properties": {
+                "indirizzo": "PIAZZALE CIMITERO",
+                "tipologia": "Area a verde non fruibile",
+                "superficie": "4278"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7033,
+                    45.1522
+                ]
+            },
+            "properties": {
+                "indirizzo": "VIA E. CIOCCA",
+                "tipologia": "Spazi verdi informali",
+                "superficie": "3647"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7033,
+                    45.1522
+                ]
+            },
+            "properties": {
+                "indirizzo": "VIA E. CIOCCA",
+                "tipologia": "Spazi verdi informali",
+                "superficie": "927"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7033,
+                    45.1522
+                ]
+            },
+            "properties": {
+                "indirizzo": "VIA E. CIOCCA",
+                "tipologia": "area verde non fruibile",
+                "superficie": "1838"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7033,
+                    45.1522
+                ]
+            },
+            "properties": {
+                "indirizzo": "CIRCONVALLAZIONE CITTADINA",
+                "tipologia": "Area a verde non fruibile",
+                "superficie": "4000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7033,
+                    45.1522
+                ]
+            },
+            "properties": {
+                "indirizzo": "VIA COLLODI",
+                "tipologia": "Area a verde non fruibile",
+                "superficie": "1416"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7033,
+                    45.1522
+                ]
+            },
+            "properties": {
+                "indirizzo": "VIA DE AMICIS",
+                "tipologia": "Parco",
+                "superficie": "367"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7033,
+                    45.1522
+                ]
+            },
+            "properties": {
+                "indirizzo": "VIALE DUCA D'AOSTA",
+                "tipologia": "Area verde non fruibile",
+                "superficie": "5099"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7033,
+                    45.1522
+                ]
+            },
+            "properties": {
+                "indirizzo": "VIA FALCHETTI",
+                "tipologia": "Area verde non fruibile",
+                "superficie": "3600"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7033,
+                    45.1522
+                ]
+            },
+            "properties": {
+                "indirizzo": "VIA ROSOLINO FERRARI",
+                "tipologia": "impianto in uso a societ\u00e0 sportive",
+                "superficie": "6034"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7033,
+                    45.1522
+                ]
+            },
+            "properties": {
+                "indirizzo": "VIA GALIVERTA",
+                "tipologia": "Area a verde",
+                "superficie": "1009"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7033,
+                    45.1522
+                ]
+            },
+            "properties": {
+                "indirizzo": "VIA GALIVERTA (Privata)",
+                "tipologia": "Giardini di isolato",
+                "superficie": "986"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7033,
+                    45.1522
+                ]
+            },
+            "properties": {
+                "indirizzo": "PIAZZALE GANELLI",
+                "tipologia": "Parcheggio",
+                "superficie": "1618"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7033,
+                    45.1522
+                ]
+            },
+            "properties": {
+                "indirizzo": "VIA GATTI",
+                "tipologia": "Parchi di circoscrizione/decentramento",
+                "superficie": "10333"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7033,
+                    45.1522
+                ]
+            },
+            "properties": {
+                "indirizzo": "VIA GATTI",
+                "tipologia": "Parco giochi",
+                "superficie": "13829"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7033,
+                    45.1522
+                ]
+            },
+            "properties": {
+                "indirizzo": "VIALE GORIZIA",
+                "tipologia": "Parco giochi",
+                "superficie": "9353"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7033,
+                    45.1522
+                ]
+            },
+            "properties": {
+                "indirizzo": "VIA P. GUAITAMACCHI",
+                "tipologia": "Giardino di quartiere",
+                "superficie": "9180"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7033,
+                    45.1522
+                ]
+            },
+            "properties": {
+                "indirizzo": "VIA P. GUAITAMACCHI/VIA ADDA",
+                "tipologia": "area a verde",
+                "superficie": "5000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7033,
+                    45.1522
+                ]
+            },
+            "properties": {
+                "indirizzo": "VIALE DELL'INDUSTRIA",
+                "tipologia": "Area verde non fruibile",
+                "superficie": "16625"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7033,
+                    45.1522
+                ]
+            },
+            "properties": {
+                "indirizzo": "PIAZZA ITALIA",
+                "tipologia": "Area a verde",
+                "superficie": "2811"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7033,
+                    45.1522
+                ]
+            },
+            "properties": {
+                "indirizzo": "VIA LAMBERTI",
+                "tipologia": "Giardini di isolato",
+                "superficie": "2811"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7033,
+                    45.1522
+                ]
+            },
+            "properties": {
+                "indirizzo": "VIA PETRARCA",
+                "tipologia": "Parco",
+                "superficie": "2190"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7033,
+                    45.1522
+                ]
+            },
+            "properties": {
+                "indirizzo": "VIA POLENGHI",
+                "tipologia": "Spazi verdi informali",
+                "superficie": "5535"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7033,
+                    45.1522
+                ]
+            },
+            "properties": {
+                "indirizzo": "VIA POLENGHI",
+                "tipologia": "Parco giochi",
+                "superficie": "2810"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7033,
+                    45.1522
+                ]
+            },
+            "properties": {
+                "indirizzo": "VIA UGONI",
+                "tipologia": "Parco Giochi",
+                "superficie": "2817"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7033,
+                    45.1522
+                ]
+            },
+            "properties": {
+                "indirizzo": "VIA VARALLI",
+                "tipologia": "Area verde non fruibile",
+                "superficie": "2831"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7033,
+                    45.1522
+                ]
+            },
+            "properties": {
+                "indirizzo": "VIALE VOLTA",
+                "tipologia": "Giardini di isolato",
+                "superficie": "2006"
+            }
+        }
+    ]
+}
